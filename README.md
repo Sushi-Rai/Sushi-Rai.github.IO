@@ -1,2 +1,2 @@
-# Hello My Name Sushi Rai
-## I am a proud Nepali
+I'm a consultant of Dynamics 365 CRM.
+
